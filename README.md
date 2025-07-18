@@ -7,7 +7,7 @@ Déploiement simple d'infrastructure sur AWS en utilisant une infrastructure as 
 
 ---
 
-## 📂 Fichiers principaux
+## Fichiers principaux du projet
 
 | Fichier        | Rôle                                                  |
 |----------------|--------------------------------------------------------|
